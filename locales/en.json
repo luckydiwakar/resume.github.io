@@ -36,7 +36,7 @@
         "name": "Diploma",
         "itemList": ["Information Technology"],
         "startEndDate": "July 2017 - may 2020"
-      },\
+      },
       {
         "collage": "GRIC Inter College ",
         "name": "High School",
@@ -54,7 +54,7 @@
           "Responsible for designing, developing and maintaining a group of applications used in the retail industry by multinational companies as Pepsico, Unilever, Quilmes, etc.",
           "Web Team leader, I take technical decisions about which technologies use in each project and how the team will works.",
           "Backend Developer: .NET Core | NodeJs | MSSQL | Php | MongoDB.",
-          "Frontend Developer: HTML | Css | Bootstrap4 | ReactJs | Javascript .",
+          "Frontend Developer: HTML | Css | Bootstrap4 | ReactJs | Javascript ."
         ],
         "startEndDate": "may 2022 - June 2022"
       },
@@ -87,7 +87,7 @@
       "devicon-photoshop-plain",
       "devicon-react-original",
       "devicon-visualstudio-plain",
-      "devicon-dot-net-plain",
+      "devicon-dot-net-plain"
     ],
     "workflow": "Workflow",
     "itemList": [

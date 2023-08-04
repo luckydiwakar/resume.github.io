@@ -93,13 +93,11 @@
         </ul>
       </div>
     </nav>
-
     <div class="resume">
       <Resume />
     </div>
   </section>
 </template>
-
 <script>
 import Resume from "@/components/Resume";
 import DarkModeBtn from "@/components/DarkModeBtn";

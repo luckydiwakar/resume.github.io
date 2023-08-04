@@ -24,7 +24,7 @@
   },
   "educationDegrees": {
     "title": "Education 📕",
-    "degrees": [
+    "degrees":[
       {
         "collage": "GLA Universty",
         "name": "Engineer Degree",
